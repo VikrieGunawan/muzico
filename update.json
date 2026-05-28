@@ -1,0 +1,6 @@
+{
+  "versionCode": 4,
+  "versionName": "1.3.0-beta",
+  "updateUrl": "https://github.com/viki-regu/harmony-music/releases",
+  "changelog": "What's New in 1.3.0-beta:\n[Added]\n- Menambahkan pendeteksi jaringan internet.\n- Menambahkan pop-up Update otomatis sekali klik tanpa repot memasukkan link.\n\n[Changed]\n- Mengubah nama aplikasi menjadi \"HarmonyMusic\"\n\n[Fixed]\n- Memperbaiki Mini Player yang muncul di halaman \"Configure Profile\".\n- Memperbaiki pop-up Update yang tidak muncul pada sebagian pengguna."
+}

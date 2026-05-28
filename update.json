@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0-beta",
-  "updateUrl": "https://github.com/VikrieGunawan/harmony-music/releases/download/v1.4.0-beta/app-release.apk",
-  "changelog": "What's New in 1.4.0-beta:\n- Updated GitHub release link to point directly to modern APK downloads.\n- Seamless auto-updates via local Download Manager.\n- Code cleanup and stability improvements."
+  "versionCode": 4,
+  "versionName": "1.3.0-beta",
+  "updateUrl": "https://github.com/VikrieGunawan/harmony-music/releases/download/v1.3.0-beta/app-release.apk",
+  "changelog": "What's New in 1.3.0-beta:\n[Added]\n- Added a network detector.\n\n[Changed]\n- Rename the app to \"HarmonyMusic\"\n\n[Fixed]\n- Fixed Mini Player appearing in \"Configure Profile\".\n- Fixed pop up update not showing for some users.\n\n\nWhat's New in 1.2.0-beta:\n- Added new language: Indonesian.\n- Added Update checking feature (check in \"Configure Profile\" place).\n- Bug Fixes."
 }

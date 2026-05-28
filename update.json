@@ -1,6 +1,6 @@
 {
   "versionCode": 4,
-  "versionName": "1.3.1-beta",
+  "versionName": "1.3.2-beta",
   "updateUrl": "https://github.com/VikrieGunawan/harmony-music/releases/download/v1.3.1-beta/app-release.apk",
-  "changelog": "What's New in 1.3.1-beta:\n[Fixed]\n- Fixed the issue of the application not being able to be installed on some Users."
+  "changelog": "What's New in 1.3.2-beta:\n[Fixed]\n- Fixed the issue of the application not being able to be installed on some Users."
 }
